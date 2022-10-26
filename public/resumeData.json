@@ -33,18 +33,24 @@
 		"skillmessage": "My Programming Language Proficiency",
 		"education": [
 			{
-				"school": "University of Kent - UK",
-				"degree": "Bachelor's Degree, Computer Science",
-				"graduated": "July 2016",
-				"description": "Graduated with First Class Honours"
+				"school": "Gustav-Heinemann-Schule Rüsselsheim",
+				"degree": "Allgemeines Abitur",
+				"graduated": "July 2019",
+				"description": "Graduated with A-levels in english and chemistry"
+			},
+			{
+				"school": "Neuefische Talentpool",
+				"degree": "Traineeship Certificate",
+				"graduated": "November 2022",
+				"description": "Graduated after fulltime 600+ hours of coding experience"
 			}
 		],
 		"work": [
 			{
-				"company": "PAPA",
-				"title": "Founder and CEO",
-				"years": "May 2019 - Present",
-				"description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+				"company": "Knuspr & Rewe Digital",
+				"title": "Driver",
+				"years": " 2021 - 2022",
+				"description": "Delivery Driver for online customers"
 			}
 		],
 		"skills": [
