@@ -59,9 +59,9 @@
 				"description": "Delivery Driver for online customers"
 			},
 			{
-				"school": "Neuefische Talentpool",
-				"degree": "Traineeship Certificate",
-				"graduated": "November 2022",
+				"company": "Neuefische Talentpool",
+				"title": "Traineeship Certificate",
+				"years": " 2022",
 				"description": "Graduated after 600+ hours fulltime & 3 months of coding experience"
 			}
 		],
